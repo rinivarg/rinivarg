@@ -10,7 +10,6 @@ Below is a snapshot of my academic journey and you can find a list of my publica
 <a href="https://github.com/rinivarg/rinivarg.github.io/blob/master/journey.gif">
   <img src="https://raw.githubusercontent.com/rinivarg/rinivarg.github.io/master/journey.gif" alt="My research journey" width="750">
 </a>
-
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=rinivarg.rinivarg" alt="Profile Views" height="20"></p>
 
 
